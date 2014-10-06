@@ -1,0 +1,25 @@
+<html>
+
+<head>
+	<title>Smells like Bakin</title>
+	<style>	
+		body{
+			background-color: lightblue;
+		}
+		h1{
+			color:purple;
+			font-size: 64px;
+		}
+		p{
+			color:magenta;
+			font-size: 20px;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>Smells like bacon<h/1>
+	<p>We combine unexpected flavors that melt otgether to create ironically delicious desserts.</p>
+</body>
+
+</html>
