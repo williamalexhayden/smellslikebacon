@@ -1,7 +1,7 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	background: #420600 url('bg-texture.jpg') repeat;
 }
 a {
 	color: #4FB69F;
@@ -17,7 +17,7 @@ h2{
 }
 .btn{
 	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	background: #4FB69F url('texture.png') no-repeat right top;
 	padding: 15px 30px;
 	margin: 40px 0px;
 	border-radius: 20px;
